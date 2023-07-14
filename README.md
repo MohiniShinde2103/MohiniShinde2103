@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohini Shinde</h1>
-<h3 align="justify">A Computer Engineer. I am Passionate for improving my coding skills and develop my own Applications and Softwares.  My leadership qualities has also strengthened me with respect to the decision making power. I am a motivated Engineer with demonstrated experience in Web Development & Designing and Software Development. I believe in exceeding goals and expectations.</h3>
+<h3 align="justify">A Passionate Computer Engineer for improving coding skills and develop my own Applications and Softwares. My leadership qualities has also strengthened me with respect to the decision making power. I am a motivated Engineer with demonstrated experience in Web Development & Designing and Software Development. I believe in exceeding goals and expectations.</h3>
 
 
 - 🌱 I’m currently learning **Data Warehousing, Cloud Computing**
